@@ -1,0 +1,5 @@
+{
+  "name": "Exam Form Manager",
+  "description": "A lightweight web application to store and track exam application details, view them on a calendar, and manage related documents. It's designed to be offline-first, using local browser storage.",
+  "requestFramePermissions": []
+}
